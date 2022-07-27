@@ -1,0 +1,47 @@
+{
+	"id": "BB99A1BC-7B0D-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-27T07:14:22.530Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-missionmanager",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-missionmanager",
+	"description": null,
+	"ver": "22.7.27.715",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "282C1D2A-4FCC-405B-AFEE-DCEFAA0D0BF7",
+			"ver": "22.7.27.914",
+			"application": "missionmanager",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
